@@ -1,0 +1,31 @@
+.header{
+    font-size: 200%;
+    margin: 0 30px 30px;
+}
+
+.hole {
+    width: 150px;
+    height: 150px;
+    margin: 5px;
+    background: gray;
+    border-radius: 50%;
+}
+
+.hole-game {
+    width: 640px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.hole_has-mole {
+    background-image: url("../img/goblin.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: brown;
+}
+
+/* .content {
+    
+} */
