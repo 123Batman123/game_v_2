@@ -1,4 +1,4 @@
-name: Netology DOM
+name: Netology Events
 
 on: [push, pull_request]
 
